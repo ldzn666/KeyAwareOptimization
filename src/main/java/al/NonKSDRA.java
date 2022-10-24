@@ -22,6 +22,7 @@ import static util.PublicProperty.*;
 public class NonKSDRA {
     public int serviceNum = 0;          //成功业务数量
     public int faultServiceNum = 0 ;    //堵塞业务数量
+    public int test = 0;
 
     public NonKSDRA() {
     }
