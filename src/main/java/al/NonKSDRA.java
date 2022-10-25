@@ -24,6 +24,7 @@ public class NonKSDRA {
     public int faultServiceNum = 0 ;    //堵塞业务数量
     public int test = -1;
     public int test2 = -999;
+    public int test3 = 0;
 
     public NonKSDRA() {
     }
